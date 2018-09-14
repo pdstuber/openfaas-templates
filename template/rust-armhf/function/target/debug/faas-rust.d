@@ -1,0 +1,1 @@
+/home/philipp/openfaas-templates/template/rust/function/target/debug/faas-rust: /home/philipp/openfaas-templates/template/rust/function/src/handler/mod.rs /home/philipp/openfaas-templates/template/rust/function/src/main.rs

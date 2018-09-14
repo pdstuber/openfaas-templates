@@ -1,0 +1,7 @@
+[package]
+name = "faas-rust"
+version = "0.1.0"
+authors = ["OpenFaas User"]
+
+[dependencies]
+
